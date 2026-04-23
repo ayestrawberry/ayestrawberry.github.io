@@ -3,6 +3,8 @@ body{
     background-repeat: no-repeat;
 }
 
-h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', cursive;
+h1{font-family: 'Gill Sans';
 font-size: x-large;
 }
+
+h2{font-family: 'Courier';}
