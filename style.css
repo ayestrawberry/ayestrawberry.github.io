@@ -1,9 +1,7 @@
 .container{text-align: center;
 
-body{
-    background-color: bisque;
-    background-repeat: no-repeat;
-}
+body{background-color: #fbf7ee
+    background-repeat: no-repeat;}
 
 h1{font-family: 'Gill Sans';
 font-size: x-large;
