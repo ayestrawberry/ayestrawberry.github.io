@@ -1,3 +1,5 @@
+.container{text-align: center;
+
 body{
     background-color: bisque;
     background-repeat: no-repeat;
@@ -8,3 +10,5 @@ font-size: x-large;
 }
 
 h2{font-family: 'Courier';}
+
+}
