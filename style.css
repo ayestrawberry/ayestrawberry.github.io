@@ -1,4 +1,6 @@
-.container{text-align: center;
+.container {
+  text-align: center;
+
 
 body{background-color: #fbf7ee
     background-repeat: no-repeat;}
@@ -8,5 +10,4 @@ font-size: x-large;
 }
 
 h2{font-family: 'Courier';}
-
 }
