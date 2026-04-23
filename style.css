@@ -2,3 +2,6 @@ body{
     background-color: bisque;
     background-repeat: no-repeat;
 }
+
+h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', cursive;
+font-size: x-large;}
