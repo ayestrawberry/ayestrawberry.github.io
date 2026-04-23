@@ -9,8 +9,4 @@ font-size: x-large;
 
 h2{font-family: 'Courier';}
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
+div{margin: auto;}
