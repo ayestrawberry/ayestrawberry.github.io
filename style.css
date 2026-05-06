@@ -13,3 +13,8 @@ h1 {
 h2 {
     color: #472D00;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
