@@ -3,12 +3,3 @@ body{
     background-repeat: no-repeat;
     text-align: center;
 }
-.image-row {
-    display: flex;
-    gap: 50px;
-}
-
-.image-row img {
-    width: 200px; 
-    height: auto;
-}
