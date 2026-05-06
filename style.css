@@ -5,7 +5,7 @@ body{
 }
 .image-row {
     display: flex;
-    gap: 20px;
+    gap: 50px;
 }
 
 .image-row img {
