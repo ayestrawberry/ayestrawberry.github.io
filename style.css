@@ -3,3 +3,7 @@ body{
     background-repeat: no-repeat;
     text-align: center;
 }
+.taller-img {
+    height: 300px;
+    width: auto;
+}
