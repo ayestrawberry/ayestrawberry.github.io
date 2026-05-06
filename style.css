@@ -13,6 +13,10 @@ h2 {
     color: #472D00;
 }
 
+p {
+    margin: 10px 5px;
+}
+
 .chocolate {
     background-color: #D18400;
 }
