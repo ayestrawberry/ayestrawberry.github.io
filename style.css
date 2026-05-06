@@ -3,7 +3,8 @@ body{
     background-repeat: no-repeat;
     text-align: center;
 }
-.taller-img {
+
+.image-row img:second-child {
     height: 300px;
     width: auto;
 }
