@@ -14,14 +14,18 @@ h2 {
 }
 
 p {
-    max-width: 500px;
+    max-width: 700px;
     margin: 10px auto;
 }
 
 .chocolate {
-    background-color: #FFC7E2;
+    background-color: #FFD6E3;
 }
 
 .strawberries {
-    background-color: #FFC7E2;
+    background-color: #FFD6E3;
+}
+
+.cake {
+    background-color: #FFD6E3;
 }
